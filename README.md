@@ -1,6 +1,8 @@
 # glst
 Generalized Least Squares for trend estimation of summarized dose-response data Use glst With STATA 19
 
+Trend estimation of summarized dose-response data Use glst With STATA 19
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
