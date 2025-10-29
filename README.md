@@ -3,6 +3,8 @@ Generalized Least Squares for trend estimation of summarized dose-response data 
 
 Trend estimation of summarized dose-response data Use glst With STATA 19
 
+https://www.youtube.com/watch?v=feu-3YUWWH0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
